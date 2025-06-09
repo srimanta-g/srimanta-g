@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srimanta Gangopadhyay</h1>
-<h3 align="center">A passionate Software Engineer from India interested in Backend Engineering. Currently I am in <3 with Typescript.</h3>
+<h3 align="center">A passionate Software Engineer from India interested in Backend Engineering.</h3>
 
-- 🔭 I’m currently working on **jsonwebtokens and cookies**
+- 🔭 
 
-- 🌱 I’m currently learning **React**
+- 🌱 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
